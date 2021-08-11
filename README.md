@@ -1,8 +1,8 @@
 ## How To Run
-git clone this repo
-cd forma-ai-take-home-test
-docker-compose up --build
-Navigate to http://localhost:3000
+- git clone this repo
+- cd forma-ai-take-home-test
+- docker-compose up --build
+- Navigate to http://localhost:3000
 
 ## Your Mission
 Hey Full-Stack developer. Welcome. Your mission, should you choose to accept it, is to carve out 2 hours and create a new feature in the single page app provided here.
